@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Write the 3AM fridge text entry to /output/entry.txt."""
+"""Write the 3AM fridge text entry to /output/entry.txt (round 2: revision-history fix)."""
 import os
 
 TEXT = "It's 3:04am. You swore you'd stop eating after midnight. The cake is gone, and I'm the only one who saw you do it."
